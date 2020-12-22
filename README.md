@@ -33,9 +33,9 @@ To see about the viability of running Deno in a Lambda environment.
 
 ## History
 
-2020-12-20T12:15:55 Stumble onto Gentle RPC 
-2020-12-22T22:11:32 Begin porting respond metho over to Lambda's request/response workflow 
-2020-12-22T16:37:16 Finish up work porting response to Lambda 
+* 2020-12-20T12:15:55 Stumble onto Gentle RPC
+* 2020-12-22T22:11:32 Begin porting respond metho over to Lambda's request/response workflow
+* 2020-12-22T16:37:16 Finish up work porting response to Lambda
 
 ## Credits
 
